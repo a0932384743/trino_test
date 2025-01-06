@@ -1,0 +1,3 @@
+io.airlift=DEBUG
+io.trino=DEBUG
+org.jline=DEBUG
